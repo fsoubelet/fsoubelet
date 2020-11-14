@@ -12,7 +12,7 @@ Besides that and programming, I'm into scientific outreach, photography, music, 
 
 <strong>What I'm up to:</strong>
 - 👨🏽‍💻 I'm currently working on **IR Local Coupling Correction** for the [Large Hadron Collider][lhc];
-- 🏃‍I'm always interested in making things run faster, and learning some web development;
+- 🏃‍I'm interested in making things run faster, and learning some web development;
 - 🌱 I’m currently learning `Nim` and `SQL`, and practicing various algorithms;
 - 💬 I'm always happy to answer questions and contribute to projects;
 - 📫 I can be reached at felix.soubelet@cern.ch.
