@@ -24,7 +24,7 @@ Besides that and programming, I'm into scientific outreach, photography, music a
 - Methodical Accelerator Design: [MAD-X](https://mad.web.cern.ch/mad/)
 - Polymorphic Tracking Code: [PTC](http://madx.web.cern.ch/madx/doc/PTC_reference_manual.pdf)
 - SixTrack / SixTrackLib: https://github.com/SixTrack
-- xsuite / xtrack: https://github.com/xsuite/xtrack
+- xsuite / xtrack: https://github.com/xsuite
 
 <strong>Collective Effects</strong>
 - PyHEADTAIL: https://github.com/PyCOMPLETE/PyHEADTAIL
