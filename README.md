@@ -30,6 +30,9 @@ Besides that and programming, I'm into scientific outreach, photography, music a
 - PyHEADTAIL: https://github.com/PyCOMPLETE/PyHEADTAIL
 - PyECLOUD: https://github.com/PyCOMPLETE/PyECLOUD
 
+<strong>Toolbox</strong>
+- PyhDToolkit: https://github.com/fsoubelet/PyhDToolkit
+
 <!-- My GitHub Stats ❤️ -->
 
 ## Languages, Tools and Statistics
