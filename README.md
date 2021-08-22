@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Felix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
 
+<a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
+<a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
+
 I'm a PhD student in particle accelerator physics working [@CERN][cern].
 I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast.
 My work mostly includes maths, physics simulations and data analysis.
