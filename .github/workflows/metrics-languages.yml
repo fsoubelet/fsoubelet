@@ -18,8 +18,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: fsoubelet
-          template: classic
           filename: metrics-languages.svg
           config_timezone: Europe/Paris
           plugin_languages: yes
