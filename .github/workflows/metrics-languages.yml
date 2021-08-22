@@ -12,11 +12,11 @@ jobs:
   language-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Languages plugin (indepth)
       - uses: lowlighter/metrics@latest
         with:
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+
           # Options
           user: fsoubelet
           template: classic
