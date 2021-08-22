@@ -49,13 +49,6 @@ Besides that and programming, I'm into scientific outreach, photography, music a
 
 <br />
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
-<img src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=for-the-badge" alt="Markdown Badge">
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=for-the-badge" alt="GNU Bash Badge">
-<img src="https://img.shields.io/badge/Nim-FFE953?logo=nim&logoColor=000&style=for-the-badge" alt="Nim Badge">
-
-<br />
-
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=for-the-badge" alt="Apache Spark Badge">
 <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge" alt="Neovim Badge">
 <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff&style=for-the-badge" alt="Jupyter Badge">
@@ -65,9 +58,7 @@ Besides that and programming, I'm into scientific outreach, photography, music a
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=fsoubelet&show_icons=true?&theme=dracula&count_private=true&hide=stars" alt="My Github Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsoubelet&&theme=dracula&layout=compact" alt="My Languages Stats" height="165">
-</h1>
+<a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-languages.svg" align="center" width="75%"></img></a>
 
 [cern]: https://home.cern/
 [lhc]: https://home.cern/science/accelerators/large-hadron-collider
