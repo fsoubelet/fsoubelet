@@ -13,9 +13,9 @@ Besides that and programming, I'm into scientific outreach, photography, music a
 <!-- A Little About Me -->
 
 ## What I'm up to:
-- 👨‍🔬 I'm currently working on **IR Local Coupling Correction** for the [Large Hadron Collider][lhc] using mostly `cpymad`/`MADX`/`PTC`;
-- 👨‍💻 I constribute to the development of [OMC][pylhc] codes.
-- 🏃 I'm interested in making codes run faster;
+- 👨‍🔬 I'm currently working on **IR Local Coupling Correction** for the [Large Hadron Collider][lhc] through novel methods;
+- 👨‍💻 I constribute to the development of [OMC][pylhc] codes and maintain our repositories.
+- 🏃 I'm interested in making codes run faster, I mostly make codes run;
 - 🌱 I’m currently trying to find time to learn `Nim` and `SQL`;
 - 💬 I'm always happy to answer questions and contribute to projects;
 - 📫 I can be reached at felix.soubelet@cern.ch.
