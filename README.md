@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Felix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1>
+<!-- <h1 align="center">Hi there, I'm Felix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="32" /></h1> -->
+<p><pre align="center">
+<strong>Felix Soubelet</strong> / <a href="https://fsoubelet.github.io">Homepage</a> / <a href="https://orcid.org/0000-0001-8012-1440">ORCID</a> / <a href="https://github.com/fsoubelet">GitHub</a> / <a href="https://gist.github.com/fsoubelet">Gist</a> / <a href="https://twitter.com/Felix_Fly">Twitter</a>
+</pre></p>
 
 <a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
@@ -6,7 +9,7 @@
 I'm a PhD student in particle accelerator physics working [@CERN][cern].
 I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast.
 My work mostly includes maths, physics simulations and data analysis.
-Besides that and programming, I'm into scientific outreach, photography, music and any kind of tinkering.
+I'm into scientific outreach, programming, photography and any kind of tinkering.
 
 <br>
 
@@ -14,7 +17,7 @@ Besides that and programming, I'm into scientific outreach, photography, music a
 
 ## What I'm up to:
 - 👨‍🔬 I'm currently working on **IR Local Coupling Correction** for the [Large Hadron Collider][lhc] through novel methods;
-- 👨‍💻 I constribute to the development of [OMC][pylhc] codes and maintain our repositories.
+- 👨‍💻 I contribute to the development of [OMC][pylhc] codes and maintain our repositories.
 - 🏃 I'm interested in making codes run faster, I mostly make codes run;
 - 🌱 I’m currently trying to find time to learn `Nim` and `SQL`;
 - 💬 I'm always happy to answer questions and contribute to projects;
