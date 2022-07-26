@@ -42,7 +42,7 @@ I'm into scientific outreach, programming, photography and any kind of tinkering
 
 <!-- My GitHub Stats ❤️ -->
 
-## Languages, Tools and Statistics
+<!-- ## Languages, Tools and Statistics
 
 <h1 align="center">
 
@@ -62,7 +62,7 @@ I'm into scientific outreach, programming, photography and any kind of tinkering
 
 <br />
 
-<a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-languages.svg" align="center" width="75%"></img></a>
+<a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-languages.svg" align="center" width="75%"></img></a> -->
 
 [cern]: https://home.cern/
 [lhc]: https://home.cern/science/accelerators/large-hadron-collider
