@@ -28,17 +28,17 @@ I'm into scientific outreach, programming, photography and any kind of tinkering
 ## Used Accelerator Physics Codes
 
 <strong>Design and Tracking Codes</strong>
-- Methodical Accelerator Design: [MAD-X](https://mad.web.cern.ch/mad/)
-- Polymorphic Tracking Code: [PTC](http://madx.web.cern.ch/madx/doc/PTC_reference_manual.pdf)
-- SixTrack / SixTrackLib: https://github.com/SixTrack
-- xsuite / xtrack: https://github.com/xsuite
+- [Methodical Accelerator Design](https://mad.web.cern.ch/mad/)
+- [Polymorphic Tracking Code](http://madx.web.cern.ch/madx/doc/PTC_reference_manual.pdf)
+- [SixTrack / SixTrackLib](https://github.com/SixTrack)
+- [xsuite / xtrack](https://github.com/xsuite)
 
 <strong>Collective Effects</strong>
-- PyHEADTAIL: https://github.com/PyCOMPLETE/PyHEADTAIL
-- PyECLOUD: https://github.com/PyCOMPLETE/PyECLOUD
+- [PyHEADTAIL](https://github.com/PyCOMPLETE/PyHEADTAIL)
+- [PyECLOUD](https://github.com/PyCOMPLETE/PyECLOUD)
 
 <strong>Toolbox</strong>
-- PyhDToolkit: https://github.com/fsoubelet/PyhDToolkit
+- [PyhDToolkit](https://github.com/fsoubelet/PyhDToolkit)
 
 <!-- My GitHub Stats ❤️ -->
 
