@@ -17,7 +17,7 @@ I'm into scientific outreach, programming, photography and any kind of tinkering
 
 ## What I'm up to:
 - 👨‍🔬 I'm currently working on **IR Local Coupling Correction** for the [Large Hadron Collider][lhc] through novel methods;
-- 👨‍💻 I contribute to the development of [OMC][pylhc] codes and maintain our repositories.
+- 👨‍💻 I contribute to the development of [OMC][pylhc] codes and maintain our repositories;
 - 🏃 I'm interested in making codes run faster, I mostly make codes run;
 - 🌱 I’m currently trying to find time to learn `Nim` and `SQL`;
 - 💬 I'm always happy to answer questions and contribute to projects;
@@ -37,8 +37,11 @@ I'm into scientific outreach, programming, photography and any kind of tinkering
 - [PyHEADTAIL](https://github.com/PyCOMPLETE/PyHEADTAIL)
 - [PyECLOUD](https://github.com/PyCOMPLETE/PyECLOUD)
 
-<strong>Toolbox</strong>
+<strong>Optics Studies & Analysis</strong>
 - [PyhDToolkit](https://github.com/fsoubelet/PyhDToolkit)
+- [cpymadtools](https://github.com/beamopticsanalysis/cpymadtools)
+- [optics_functions](https://github.com/pylhc/optics_functions)
+- [omc3](https://github.com/pylhc/omc3)
 
 <!-- My GitHub Stats ❤️ -->
 
