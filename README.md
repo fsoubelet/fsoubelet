@@ -35,20 +35,20 @@ I'm into scientific outreach, programming, photography and any kind of tinkering
 
 
 <!-- <strong>Design and Tracking Codes</strong>
-- [Methodical Accelerator Design](https://mad.web.cern.ch/mad/)
-- [Polymorphic Tracking Code](http://madx.web.cern.ch/madx/doc/PTC_reference_manual.pdf)
+- [Methodical Accelerator Design][mad]
+- [Polymorphic Tracking Code][ptc]
 - [SixTrack / SixTrackLib](https://github.com/SixTrack)
-- [xsuite / xtrack](https://github.com/xsuite)
+- [xsuite / xtrack][xsuite]
 
 <strong>Collective Effects</strong>
-- [PyHEADTAIL](https://github.com/PyCOMPLETE/PyHEADTAIL)
-- [PyECLOUD](https://github.com/PyCOMPLETE/PyECLOUD)
+- [PyHEADTAIL][pyheadtail]
+- [PyECLOUD][pyecloud]
 
 <strong>Optics Studies & Analysis</strong>
-- [PyhDToolkit](https://github.com/fsoubelet/PyhDToolkit)
-- [cpymadtools](https://github.com/beamopticsanalysis/cpymadtools)
+- [PyhDToolkit][pyhdtoolkit]
+- [cpymadtools][cpymadtools]
 - [optics_functions](https://github.com/pylhc/optics_functions)
-- [omc3](https://github.com/pylhc/omc3) -->
+- [omc3][omc3] -->
 
 <!-- My GitHub Stats ❤️ -->
 
