@@ -9,7 +9,7 @@
 I'm a PhD student in particle accelerator physics working [@CERN][cern].
 I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast.
 My work mostly includes maths, physics simulations and data analysis.
-I'm into scientific outreach, programming, photography and any kind of tinkering.
+I'm into scientific outreach, programming, photography and most kinds of tinkering.
 
 <br>
 
