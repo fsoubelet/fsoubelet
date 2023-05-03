@@ -27,11 +27,11 @@ I'm into scientific outreach, programming, photography and any kind of tinkering
 
 ## Used Accelerator Physics Codes
 
-|                                  Design and Tracking                                   |                   Collective Effects                   |                    Optics Studies & Analysis                     |
-| :------------------------------------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------------------: |
-|             [Methodical Accelerator Design](https://mad.web.cern.ch/mad/)              | [PyHEADTAIL](https://github.com/PyCOMPLETE/PyHEADTAIL) |     [PyhDToolkit](https://github.com/fsoubelet/PyhDToolkit)      |
-| [Polymorphic Tracking Code](http://madx.web.cern.ch/madx/doc/PTC_reference_manual.pdf) |   [PyECLOUD](https://github.com/PyCOMPLETE/PyECLOUD)   | [cpymadtools](https://github.com/beamopticsanalysis/cpymadtools) |
-|                      [xsuite / xtrack](https://github.com/xsuite)                      |                                                        |              [omc3](https://github.com/pylhc/omc3)               |
+|         Design and Tracking          |    Collective Effects    | Optics Studies & Analysis  |
+| :----------------------------------: | :----------------------: | :------------------------: |
+| [Methodical Accelerator Design][mad] | [PyHEADTAIL][pyheadtail] | [PyhDToolkit][pyhdtoolkit] |
+|   [Polymorphic Tracking Code][ptc]   |   [PyECLOUD][pyecloud]   | [cpymadtools][cpymadtools] |
+|           [xsuite][xsuite]           |                          |        [omc3][omc3]        |
 
 
 <!-- <strong>Design and Tracking Codes</strong>
@@ -75,6 +75,14 @@ I'm into scientific outreach, programming, photography and any kind of tinkering
 <a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-languages.svg" align="center" width="75%"></img></a> -->
 
 [cern]: https://home.cern/
+[cpymadtools]: https://github.com/beamopticsanalysis/cpymadtools
 [lhc]: https://home.cern/science/accelerators/large-hadron-collider
+[mad]: https://mad.web.cern.ch/mad/
+[omc3]: https://github.com/pylhc/omc3
+[ptc]: http://madx.web.cern.ch/madx/doc/PTC_reference_manual.pdf
+[pyecloud]: https://github.com/PyCOMPLETE/PyECLOUD
+[pyhdtoolkit]: https://github.com/fsoubelet/PyhDToolkit
+[pyheadtail]: https://github.com/PyCOMPLETE/PyHEADTAIL
 [pylhc]: https://github.com/pylhc
 [python]: https://www.python.org/
+[xsuite]: https://github.com/xsuite
