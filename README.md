@@ -27,7 +27,14 @@ I'm into scientific outreach, programming, photography and any kind of tinkering
 
 ## Used Accelerator Physics Codes
 
-<strong>Design and Tracking Codes</strong>
+|                                  Design and Tracking                                   |                   Collective Effects                   |                    Optics Studies & Analysis                     |
+| :------------------------------------------------------------------------------------: | :----------------------------------------------------: | :--------------------------------------------------------------: |
+|             [Methodical Accelerator Design](https://mad.web.cern.ch/mad/)              | [PyHEADTAIL](https://github.com/PyCOMPLETE/PyHEADTAIL) |     [PyhDToolkit](https://github.com/fsoubelet/PyhDToolkit)      |
+| [Polymorphic Tracking Code](http://madx.web.cern.ch/madx/doc/PTC_reference_manual.pdf) |   [PyECLOUD](https://github.com/PyCOMPLETE/PyECLOUD)   | [cpymadtools](https://github.com/beamopticsanalysis/cpymadtools) |
+|                      [xsuite / xtrack](https://github.com/xsuite)                      |                                                        |              [omc3](https://github.com/pylhc/omc3)               |
+
+
+<!-- <strong>Design and Tracking Codes</strong>
 - [Methodical Accelerator Design](https://mad.web.cern.ch/mad/)
 - [Polymorphic Tracking Code](http://madx.web.cern.ch/madx/doc/PTC_reference_manual.pdf)
 - [SixTrack / SixTrackLib](https://github.com/SixTrack)
@@ -41,7 +48,7 @@ I'm into scientific outreach, programming, photography and any kind of tinkering
 - [PyhDToolkit](https://github.com/fsoubelet/PyhDToolkit)
 - [cpymadtools](https://github.com/beamopticsanalysis/cpymadtools)
 - [optics_functions](https://github.com/pylhc/optics_functions)
-- [omc3](https://github.com/pylhc/omc3)
+- [omc3](https://github.com/pylhc/omc3) -->
 
 <!-- My GitHub Stats ❤️ -->
 
