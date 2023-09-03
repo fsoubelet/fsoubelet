@@ -12,7 +12,8 @@ jobs:
   achievement-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@96dde98a034ab75fec7884f9161bc12759275d36  # todo: temp fix, go back to latest once merged
+      # - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
