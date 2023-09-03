@@ -6,18 +6,18 @@
 <a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
 
-I'm a PhD student in particle accelerator physics working [@CERN][cern].
-I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast.
-My work mostly includes maths, physics simulations and data analysis.
-I'm into scientific outreach, programming, photography and most kinds of tinkering.
+I'm a postdoctoral fellow student in particle accelerator physics working [@CERN][cern] on optics and incoherent effects modeling.
+My work mostly includes maths, physics simulations, machine measurements and data analysis.
+I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast, interested in scientific outreach, programming, photography and most kinds of tinkering.
 
 <!-- <br> -->
 
 <!-- A Little About Me -->
 
 ## What I'm up to:
-- 👨‍🔬 I'm currently working on **IR Local Coupling Correction** for the [Large Hadron Collider][lhc] through novel methods;
-- 👨‍💻 I contribute to the development of [OMC][pylhc] codes and maintain our repositories;
+- 📚 I recently finished my PhD on **IR Local Coupling Correction** for the [Large Hadron Collider][lhc] through novel methods;
+- 👨‍🔬 I'm currently working on incoherent effects modeling for the CERN injectors
+- 👨‍💻 I contribute to the development of [OMC][pylhc] codes and the [xsuite][xsuite] simulation ecosystem;
 - 🏃 I'm interested in making codes run faster, I mostly make codes run;
 - 🌱 I’m currently trying to find time to learn `Nim` and `SQL`;
 - 💬 I'm always happy to answer questions and contribute to projects;
