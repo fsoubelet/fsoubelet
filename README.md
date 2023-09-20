@@ -16,8 +16,8 @@ I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast,
 
 ## What I'm up to:
 - 📚 I recently finished my PhD on **IR Local Coupling Correction** for the [Large Hadron Collider][lhc] through novel methods;
-- 👨‍🔬 I'm currently working on incoherent effects modeling for the CERN injectors
-- 👨‍💻 I contribute to the development of [OMC][pylhc] codes and the [xsuite][xsuite] simulation ecosystem;
+- 👨‍🔬 I'm currently working on incoherent effects modeling and computing for the CERN injectors, mainly **Intra-Beam Scattering**;
+- 👨‍💻 I contribute to the development of [OMC][pylhc] codes and the [xsuite][xsuite] ecosystem;
 - 🏃 I'm interested in making codes run faster, I mostly make codes run;
 - 🌱 I’m currently trying to find time to learn `Nim` and `SQL`;
 - 💬 I'm always happy to answer questions and contribute to projects;
@@ -31,7 +31,7 @@ I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast,
 | :----------------------------------: | :----------------------: | :------------------------: |
 | [Methodical Accelerator Design][mad] | [PyHEADTAIL][pyheadtail] | [PyhDToolkit][pyhdtoolkit] |
 |   [Polymorphic Tracking Code][ptc]   |   [PyECLOUD][pyecloud]   | [cpymadtools][cpymadtools] |
-|           [xsuite][xsuite]           |                          |        [omc3][omc3]        |
+|           [xsuite][xsuite]           |       PyIBS (TBP)        |        [omc3][omc3]        |
 
 
 <!-- <strong>Design and Tracking Codes</strong>
