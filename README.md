@@ -16,7 +16,7 @@ I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast,
 
 ## What I'm up to:
 - 📚 I recently finished my PhD on **IR Local Coupling Correction** for the [Large Hadron Collider][lhc] through novel methods;
-- 👨‍🔬 I'm currently working on incoherent effects modeling and computing for the CERN injectors, mainly **Intra-Beam Scattering**;
+- 👨‍🔬 I'm currently working on incoherent effects modeling for the CERN injectors, mainly **Intra-Beam Scattering**;
 - 👨‍💻 I contribute to the development of [OMC][pylhc] codes and the [xsuite][xsuite] ecosystem;
 - 🏃 I'm interested in making codes run faster, I mostly make codes run;
 - 🌱 I’m currently trying to find time to learn `Nim` and `SQL`;
