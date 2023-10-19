@@ -6,7 +6,7 @@
 <a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
 
-I'm a postdoctoral fellow student in particle accelerator physics working [@CERN][cern] on optics and incoherent effects modeling.
+I'm a postdoctoral fellow student in particle accelerator physics working [@CERN][cern] on optics and incoherent effects modeling, namely Intra-Beam Scattering.
 My work mostly includes maths, physics simulations, machine measurements and data analysis.
 I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast, interested in scientific outreach, programming, photography and most kinds of tinkering.
 
@@ -31,7 +31,7 @@ I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast,
 | :----------------------------------: | :----------------------: | :------------------------: |
 | [Methodical Accelerator Design][mad] | [PyHEADTAIL][pyheadtail] | [PyhDToolkit][pyhdtoolkit] |
 |   [Polymorphic Tracking Code][ptc]   |   [PyECLOUD][pyecloud]   | [cpymadtools][cpymadtools] |
-|           [xsuite][xsuite]           |       PyIBS (TBP)        |        [omc3][omc3]        |
+|           [xsuite][xsuite]           |       [xibs][xibs]       |        [omc3][omc3]        |
 
 
 <!-- <strong>Design and Tracking Codes</strong>
@@ -85,4 +85,5 @@ I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast,
 [pyheadtail]: https://github.com/PyCOMPLETE/PyHEADTAIL
 [pylhc]: https://github.com/pylhc
 [python]: https://www.python.org/
+[xibs]: https://github.com/fsoubelet/xibs
 [xsuite]: https://github.com/xsuite
