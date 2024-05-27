@@ -6,22 +6,23 @@
 <a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-base.svg" align="left" width="47.5%"></img></a>
 <a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-achievements.svg" align="left" width="47.5%"></img></a>
 
-I'm a postdoctoral fellow student in particle accelerator physics working [@CERN][cern] on optics and incoherent effects modeling, namely Intra-Beam Scattering.
-My work mostly includes maths, physics simulations, machine measurements and data analysis.
+I'm a postdoctoral fellow in particle accelerator physics working [@CERN][cern] on optics and incoherent effects modeling, namely Intra-Beam Scattering.
+My work mostly includes some maths, computational physics, simulations, machine measurements and data analysis.
 I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast, interested in scientific outreach, programming, photography and most kinds of tinkering.
 
 <!-- <br> -->
 
 <!-- A Little About Me -->
 
-## What I'm up to:
+## What I'm up to
+
 - 📚 I recently finished my PhD on **IR Local Coupling Correction** for the [Large Hadron Collider][lhc] through novel methods;
 - 👨‍🔬 I'm currently working on incoherent effects modeling for the CERN injectors, mainly **Intra-Beam Scattering**;
 - 👨‍💻 I contribute to the development of [OMC][pylhc] codes and the [xsuite][xsuite] ecosystem;
 - 🏃 I'm interested in making codes run faster, I mostly make codes run;
 - 🌱 I’m currently trying to find time to learn `Nim` and `SQL`;
 - 💬 I'm always happy to answer questions and contribute to projects;
-- 📫 I can be reached at felix.soubelet@cern.ch.
+- 📫 I can be reached at <felix.soubelet@cern.ch>.
 
 <!-- My Codes -->
 
@@ -30,8 +31,8 @@ I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast,
 |         Design and Tracking          |    Collective Effects    | Optics Studies & Analysis  |
 | :----------------------------------: | :----------------------: | :------------------------: |
 | [Methodical Accelerator Design][mad] | [PyHEADTAIL][pyheadtail] | [PyhDToolkit][pyhdtoolkit] |
-|   [Polymorphic Tracking Code][ptc]   |   [PyECLOUD][pyecloud]   | [cpymadtools][cpymadtools] |
-|           [xsuite][xsuite]           |       [xibs][xibs]       |        [omc3][omc3]        |
+|           [xtrack][xtrack]           |    [xfields][xfields]    |        [omc3][omc3]        |
+<!-- |   [Polymorphic Tracking Code][ptc]   |   [PyECLOUD][pyecloud]   | [cpymadtools][cpymadtools] | -->
 
 
 <!-- <strong>Design and Tracking Codes</strong>
@@ -85,5 +86,5 @@ I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast,
 [pyheadtail]: https://github.com/PyCOMPLETE/PyHEADTAIL
 [pylhc]: https://github.com/pylhc
 [python]: https://www.python.org/
-[xibs]: https://github.com/fsoubelet/xibs
-[xsuite]: https://github.com/xsuite
+[xfields]: https://github.com/xsuite/xfields
+[xtrack]: https://github.com/xsuite/xtrack
