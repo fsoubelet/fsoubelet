@@ -26,13 +26,13 @@ I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast,
 
 <!-- My Codes -->
 
-## Used Accelerator Physics Codes
+<!-- ## Used Accelerator Physics Codes
 
 |         Design and Tracking          |    Collective Effects    | Optics Studies & Analysis  |
 | :----------------------------------: | :----------------------: | :------------------------: |
 | [Methodical Accelerator Design][mad] | [PyHEADTAIL][pyheadtail] | [PyhDToolkit][pyhdtoolkit] |
 |           [xtrack][xtrack]           |    [xfields][xfields]    |        [omc3][omc3]        |
-<!-- |   [Polymorphic Tracking Code][ptc]   |   [PyECLOUD][pyecloud]   | [cpymadtools][cpymadtools] | -->
+|   [Polymorphic Tracking Code][ptc]   |   [PyECLOUD][pyecloud]   | [cpymadtools][cpymadtools] | -->
 
 
 <!-- <strong>Design and Tracking Codes</strong>
@@ -76,15 +76,16 @@ I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast,
 <a href="https://metrics.lecoq.io/about/fsoubelet"><img src="metrics-languages.svg" align="center" width="75%"></img></a> -->
 
 [cern]: https://home.cern/
-[cpymadtools]: https://github.com/beamopticsanalysis/cpymadtools
+<!-- [cpymadtools]: https://github.com/beamopticsanalysis/cpymadtools -->
 [lhc]: https://home.cern/science/accelerators/large-hadron-collider
-[mad]: https://mad.web.cern.ch/mad/
-[omc3]: https://github.com/pylhc/omc3
-[ptc]: http://madx.web.cern.ch/madx/doc/PTC_reference_manual.pdf
-[pyecloud]: https://github.com/PyCOMPLETE/PyECLOUD
-[pyhdtoolkit]: https://github.com/fsoubelet/PyhDToolkit
-[pyheadtail]: https://github.com/PyCOMPLETE/PyHEADTAIL
+<!-- [mad]: https://mad.web.cern.ch/mad/ -->
+<!-- [omc3]: https://github.com/pylhc/omc3 -->
+<!-- [ptc]: http://madx.web.cern.ch/madx/doc/PTC_reference_manual.pdf -->
+<!-- [pyecloud]: https://github.com/PyCOMPLETE/PyECLOUD -->
+<!-- [pyhdtoolkit]: https://github.com/fsoubelet/PyhDToolkit -->
+<!-- [pyheadtail]: https://github.com/PyCOMPLETE/PyHEADTAIL -->
 [pylhc]: https://github.com/pylhc
 [python]: https://www.python.org/
-[xfields]: https://github.com/xsuite/xfields
-[xtrack]: https://github.com/xsuite/xtrack
+<!-- [xfields]: https://github.com/xsuite/xfields -->
+[xsuite]: https://github.com/xsuite
+<!-- [xtrack]: https://github.com/xsuite/xtrack -->
