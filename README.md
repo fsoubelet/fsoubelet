@@ -34,7 +34,6 @@ I am a privacy & Open Source advocate, as well as a [Python][python] enthusiast,
 |           [xtrack][xtrack]           |    [xfields][xfields]    |        [omc3][omc3]        |
 |   [Polymorphic Tracking Code][ptc]   |   [PyECLOUD][pyecloud]   | [cpymadtools][cpymadtools] | -->
 
-
 <!-- <strong>Design and Tracking Codes</strong>
 - [Methodical Accelerator Design][mad]
 - [Polymorphic Tracking Code][ptc]
